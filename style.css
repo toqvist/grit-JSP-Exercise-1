@@ -53,11 +53,28 @@ footer {
     justify-content: center;
     align-content: center;
     padding: 40px;
+    font-weight: bold;
 }
 
-.rainbow {
+#rainbow {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
     -webkit-background-clip: text;
     color: transparent;
-    font-weight: bold;
+    
+}
+
+#maroon {
+    color: rgb(75, 11, 11);
+}
+
+#orange {
+    color:rgb(195, 132, 30)
+}
+
+#navy {
+    color: rgb(20, 20, 110);
+}
+
+#forest {
+    color: rgb(23, 124, 23);
 }

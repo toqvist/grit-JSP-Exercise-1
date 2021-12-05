@@ -19,6 +19,18 @@
     <content class="form-wrapper">
         
        <form action="formOutput.jsp">
+
+            <div class="pick-color">
+                <h2>Pick a Color</h2>
+                <select name="color" >
+                    <option value="maroon">Maroon</option>
+                    <option value="orange">Orange</option>
+                    <option value="navy">Navy</option>
+                    <option value="forest">Forest</option>
+                    <option value="rainbow">All of them!</option>
+                </select>
+            </div>
+
             <div class="enter-name">
                 <h2>Enter your name or something</h2>
                 <input type="text" name="inputText">
