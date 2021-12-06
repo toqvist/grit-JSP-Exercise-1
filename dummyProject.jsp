@@ -9,7 +9,7 @@
 </head>
 <body>
     <jsp:include page="navbar.jsp"/>
-    <div class="output-txt">
+    <div class="output-text">
         <p class= "rainbow">dummy</p>
     </div>
     <jsp:include page="footerbar.jsp"/>
