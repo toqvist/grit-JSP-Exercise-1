@@ -56,25 +56,25 @@ footer {
     font-weight: bold;
 }
 
-#rainbow {
+.rainbow {
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
     -webkit-background-clip: text;
     color: transparent;
     
 }
 
-#maroon {
+.maroon {
     color: rgb(75, 11, 11);
 }
 
-#orange {
+.orange {
     color:rgb(195, 132, 30)
 }
 
-#navy {
+.navy {
     color: rgb(20, 20, 110);
 }
 
-#forest {
+.forest {
     color: rgb(23, 124, 23);
 }
